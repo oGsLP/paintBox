@@ -1,0 +1,32 @@
+写入文件 F:\JAVA_0.0.0\paintBox\src\Files\PicList0926172835.ptb
+Figure 0
+Color : java.awt.Color[r=0,g=0,b=0]
+Width : 1
+Identification : 三角形
+Line 0 : 459,229 340,441 
+Line 1 : 340,441 546,423 
+Line 2 : 453,242 557,558 
+Figure 1
+Color : java.awt.Color[r=0,g=0,b=0]
+Width : 1
+Identification : 正方形
+Line 0 : 742,93 663,283 
+Line 1 : 729,60 884,94 
+Line 2 : 885,95 831,276 
+Line 3 : 689,280 845,308 
+Figure 2
+Color : java.awt.Color[r=0,g=0,b=0]
+Width : 1
+Identification : 正方形
+Line 0 : 140,95 132,274 
+Line 1 : 138,94 339,128 
+Line 2 : 339,128 318,300 
+Line 3 : 137,270 325,290 
+Figure 3
+Color : java.awt.Color[r=0,g=0,b=0]
+Width : 1
+Identification : 长方形
+Line 0 : 687,398 690,515 
+Line 1 : 677,403 877,402 
+Line 2 : 878,402 867,496 
+Line 3 : 701,503 866,504 
