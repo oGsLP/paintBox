@@ -1,0 +1,5 @@
+src/Files
+out
+.idea
+*.sh
+*.iml
